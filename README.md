@@ -34,7 +34,9 @@ def circulate():
 ```
 ## Output:
 
-![output](circulate.png)
+
+![circulate](https://user-images.githubusercontent.com/118707693/228888392-45b1df46-dc5d-4f09-943a-1e3fa8d5f87a.png)
+
 
 ## Result:
 The result was excuted sucessfully.
