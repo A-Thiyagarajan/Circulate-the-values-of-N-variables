@@ -33,10 +33,7 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-
-
-![circulate](https://user-images.githubusercontent.com/118707693/228888392-45b1df46-dc5d-4f09-943a-1e3fa8d5f87a.png)
-
+![circulate2](https://user-images.githubusercontent.com/118707693/228889828-0a0966fc-a39f-4d97-84f7-f19167b9e6b4.png)
 
 ## Result:
 The result was excuted sucessfully.
